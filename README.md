@@ -114,6 +114,7 @@ debug_out
 ### Backward pass
 
 The backward pass is a convolution with weights that are:
+
 1. mirrored along the x axis
 2. mirrored along the y axis
 3. transposed: in_colors and out_colors are switched

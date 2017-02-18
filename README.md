@@ -1,4 +1,10 @@
+### Implementing forward and backward pass for a 2D convolution in python+numpy
 
+This contains the code for forward and backward pass, as well as a numerical gradient check.
+
+The file conv_nocolors.ipnb and conv.ipynb show early prototypes, without color dimensions and without parallelization across a batch.
+
+The file edge_detection.ipynb contains a sample application. This convolution operation is used to detect edges in an image.
 
 ```python
 import numpy as np

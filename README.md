@@ -184,7 +184,8 @@ grads.shape
 
 ### Checking
 
-Calculating a numerical derivative and comparing it to the grads array
+Calculating a numerical derivative and comparing it to the grads array.
+It works :)
 
 
 ```python

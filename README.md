@@ -1,6 +1,6 @@
 ### Implementing forward and backward pass for a 2D convolution in python+numpy
 
-This contains the code for forward and backward pass, as well as a numerical gradient check.
+The notebook [batch_conv.ipynb](https://github.com/lhk/convolution/blob/master/batch_conv.ipynb) contains the code for forward and backward pass, as well as a numerical gradient check.
 
 The file [conv_nocolors.ipynb](https://github.com/lhk/convolution/blob/master/conv_nocolors.ipynb) and [conv.ipynb](https://github.com/lhk/convolution/blob/master/conv.ipynb) show early prototypes, without color dimensions and without parallelization across a batch.
 
